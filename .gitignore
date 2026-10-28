@@ -1,0 +1,10 @@
+dist/
+/config
+/state.json
+/sms-forwarder-arm64
+/sms-forwarder-amd64
+*.log
+*.log.*
+*.pid
+.env
+.env.*
